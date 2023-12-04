@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "sudo_approve",
+    "sudo_wait_for_approval",
+]
+resolver = "2"
